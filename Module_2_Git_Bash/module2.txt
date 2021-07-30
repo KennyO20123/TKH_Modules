@@ -1,0 +1,11 @@
+﻿What is Gilt & how is it different from github?
+Git is a version control system that is the most popular amongst developers.   It is used to create repos (folders) that in turn can have files or folders within tracked by Git.  Git is different from github in the sense that GitHub is basically a platform to host and save a developer’s code.  Code that can be taken from Git or any other version control system.  Github houses the code so it can be displayed like a portfolio which also grants other people (who may be working on the same project) access to add or make changes to it.
+
+
+Why use the terminal?
+Terminal is used to create file structures and project folders.  The reason why it is best to go about using the terminal instead of GUI (Graphical User Interface) is because as a programmer, you would want to communicate efficiently and directly to the computer.  Using a GUI does not communicate with the computer in the same way.
+
+
+Explain 3 benefits of version control in your own words
+Version control records the changes made to code over time and allows code being worked on by multiple people accessible at one place which allows other people to compare changes and reset projects back to an older version if needed based on what’s not working in the current version.
+Also a version control system uses a branching system that maintains code simultaneously in different forms
