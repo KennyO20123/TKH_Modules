@@ -65,5 +65,5 @@ if (revenueCost >= weeklySavings ) {
 } else if ( revenueCost < weeklySavings) {
     console.log("You are not on track to meeting your goal of " + savingsValue + " with your weekly savings. You need " + neededSavings.toFixed(2) + " more to reach your goal. " )
 } else {
-    console.log("It is not certain if your savings are on track to meeting your goal.  Is there any missing values? ")
+    console.log("Your savings are not on track to meeting your goal.  Is there any missing values? ")
 }
